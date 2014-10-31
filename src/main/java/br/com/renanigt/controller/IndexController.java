@@ -1,4 +1,4 @@
-package br.com.teste.controller;
+package br.com.renanigt.controller;
 
 import javax.inject.Inject;
 
